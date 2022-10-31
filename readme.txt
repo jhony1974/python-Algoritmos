@@ -1,0 +1,1 @@
+Este repositorio tiene como objetivo tener codigos de python para resolver problemas comunes.
